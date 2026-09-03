@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Student study & productivity app featuring task management, focus timer, analytics, and subject tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

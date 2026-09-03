@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Diamond Study Flow Top -->
+    <path
+        android:pathData="M54,28 L78,38 L54,48 L30,38 Z"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M54,30 L74,38 L54,46 L34,38 Z"
+        android:fillColor="#E0F2FE" />
+    <path
+        android:pathData="M40,43 L40,54 C40,59 46,63 54,63 C62,63 68,59 68,54 L68,43 L54,49 Z"
+        android:fillColor="#818CF8" />
+    <!-- Tassel / Bookmark hanging down -->
+    <path
+        android:pathData="M72,39 L72,56 C72,58 75,58 75,56 L75,39 Z"
+        android:fillColor="#FBBF24" />
+    <!-- Open Book Pages below -->
+    <path
+        android:pathData="M32,68 C38,65 46,65 54,67 C62,65 70,65 76,68 L76,82 C70,79 62,79 54,81 C46,79 38,79 32,82 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Book Spine / Middle Divider -->
+    <path
+        android:pathData="M53,67 L55,67 L55,81 L53,81 Z"
+        android:fillColor="#C7D2FE" />
+</vector>
+
